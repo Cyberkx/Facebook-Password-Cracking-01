@@ -27,11 +27,10 @@ make
 
 make install
 
-apt-get install libssl-dev libssh-dev libidn11-dev libpcre3-dev \
+apt-get install libssl-dev libssh-dev libidn11-dev libpcre3-dev
 
-                 libgtk2.0-dev libmysqlclient-dev libpq-dev libsvn-dev \
+apt-get install libgtk2.0-dev libmysqlclient-dev libpq-dev libsvn-dev
 
-                 firebird-dev libmemcached-dev libgpg-error-dev
 
 bash hydra-wizard.sh
 

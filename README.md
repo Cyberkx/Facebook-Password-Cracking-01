@@ -17,9 +17,9 @@ cd Facebook-Password-Cracking-01
 
 ls
 
-cd thc-hydra
 
-ls
+
+
 
 ./configure
 
